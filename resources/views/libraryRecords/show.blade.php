@@ -64,7 +64,7 @@
     </table>
 
     <br>
-    <p><strong>Click the Button below to Go Back to Main Menu <h2>&darr; &darr; ↓ </h2></strong></p>
+    <p><strong>Click the Button below to Go Back to Main Menu &nbsp; <bold  style="display: inline">&darr; &darr; ↓ </bold></strong></p>
     <button type="submit" onclick="window.location.href='/library_records'" style="background-color: bisque ; color:blueviolet;"> Back to Library Record Lists</button>
 </body>
 </html>
